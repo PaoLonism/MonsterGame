@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Oct23Sem1
+#
+
+projectname: Oct23Sem1
+vendorid: com.sem1.oct
+mainmodule: com.sem1.oct.oct23sem1
